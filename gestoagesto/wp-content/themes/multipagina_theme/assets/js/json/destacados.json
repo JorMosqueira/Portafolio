@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "nombre": "The Legend of Zelda: TOTK",
+      "plataforma": "Plataformas: Nintendo Switch",
+      "avatar": "img/tearsofthekingdom.webp"
+    },
+    {
+        "id": 2,
+        "nombre": "Final Fantasy XVI",
+        "plataforma": "Plataformas: Playstation 5",
+        "avatar": "img/ffxvi.webp"
+      },
+      {
+        "id": 3,
+        "nombre": "Resident evil 4 Remake",
+        "plataforma": "Plataformas: Playstation 4, Playstation 5",
+        "avatar": "img/re4remake.jpeg"
+      },
+      {
+          "id": 4,
+          "nombre": "Elden Ring",
+          "plataforma": "Plataformas: Xbox One, Playstation 4, PC",
+          "avatar": "img/eldenring.jpeg"
+        }
+    
+]

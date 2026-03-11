@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "nombre": "Final Fantasy 7 Remake",
+      "plataforma": "Plataformas: Playstation 4, Playstation 5",
+      "avatar": "img/ffremake.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Nier Replicant",
+        "plataforma": "Plataformas: Playstation 4, PC",
+        "avatar": "img/nier.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Shin Megami Tensei V",
+        "plataforma": "Plataformas: Nintendo Switch",
+        "avatar": "img/smtv.jpg"
+      },
+      {
+          "id": 4,
+          "nombre": "Xenoblade Chronicles",
+          "plataforma": "Plataformas: Nintendo Switch",
+          "avatar": "img/xenoblade1.jpg"
+        }
+    
+]

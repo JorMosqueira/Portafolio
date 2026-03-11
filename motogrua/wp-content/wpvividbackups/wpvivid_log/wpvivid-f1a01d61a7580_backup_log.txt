@@ -1,0 +1,175 @@
+Log created: 2025-05-28 18:52:15
+Type: backup
+[2025-05-28 18:52:20][notice]Start backing up.
+[2025-05-28 18:52:20][notice]server info fcgi:Off max execution time: 300 wp version:5.4.16 php version:7.4.16 db version:5.7.24 php ini:safe_mode: memory_limit:512M memory_get_usage:122,21 MB memory_get_peak_usage:122,81 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2025-05-28 18:52:20][notice]Prepare to backup backup_db files.
+[2025-05-28 18:52:20][notice]Start exporting database.
+[2025-05-28 18:52:20][notice]Preparing to dump table wp_revslider_slides_bkp
+[2025-05-28 18:52:20][notice]Preparing to dump table wp_revslider_sliders_bkp
+[2025-05-28 18:52:20][notice]Preparing to dump table wp_woocommerce_attribute_taxonomies
+[2025-05-28 18:52:20][notice]Preparing to dump table wp_rank_math_redirections_cache
+[2025-05-28 18:52:20][notice]Preparing to dump table wp_wc_order_tax_lookup
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_wc_order_coupon_lookup
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_wc_download_log
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_revslider_static_slides_bkp
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_revslider_navigations_bkp
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_woocommerce_log
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_revslider_navigations
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_links
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_revslider_layer_animations_bkp
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_revslider_layer_animations
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_rank_math_internal_links
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_rank_math_internal_meta
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_woocommerce_downloadable_product_permissions
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_rank_math_redirections
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_woocommerce_shipping_zone_methods
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_woocommerce_payment_tokenmeta
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_woocommerce_payment_tokens
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_woocommerce_shipping_zone_locations
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_wsluserscontacts
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_woocommerce_tax_rates
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_yoast_primary_term
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_woocommerce_shipping_zones
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_woocommerce_tax_rate_locations
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_wslusersprofiles
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_wc_category_lookup
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_revslider_static_slides
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_actionscheduler_claims
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_wc_webhooks
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_woocommerce_order_items
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_yoast_seo_links
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_rank_math_sc_analytics
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_rank_math_404_logs
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_commentmeta
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_wc_admin_note_actions
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_woocommerce_sessions
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_wc_admin_notes
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_yoast_indexable_hierarchy
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_actionscheduler_logs
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_woocommerce_order_itemmeta
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_woocommerce_api_keys
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_wc_customer_lookup
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_wc_order_product_lookup
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_users
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_wc_tax_rate_classes
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_actionscheduler_groups
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_yoast_migrations
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_wc_product_meta_lookup
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_yoast_seo_meta
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbi_instagram_feeds_posts
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_comments
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_wc_order_stats
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_termmeta
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_revslider_css_bkp
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_term_relationships
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_shop
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbi_instagram_feed_locator
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sby_feed_locator
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_mailing_lists
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_news
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbr_feed_locator
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_notifications
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_notifications_queue
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_stats
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_orders
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_messages
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_series
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_ctf_feed_locator
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_log
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_staff
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_sms_log
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_ctf_posts
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_customers
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_categories
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_mailing_queue
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_actionscheduler_actions
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbtt_sources
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_cff_feed_caches
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_ctf_feeds_posts
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_holidays
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_ctf_feeds
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_staff_schedule_items
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_ctf_feed_caches
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbi_feed_caches
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_schedule_item_breaks
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_payments
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_cff_feeds
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbtt_feeds
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbi_feeds
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_mailing_campaigns
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_mailing_list_recipients
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbr_feed_caches
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbr_feeds
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbr_sources
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sby_feeds
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_services
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sby_feed_caches
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbtt_feed_caches
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_usermeta
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_term_taxonomy
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_sessions
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_sent_notifications
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_sub_services
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_cff_facebook_feed_locator
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_cff_sources
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_appointments
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbtt_tiktok_posts
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbtt_feed_locator
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_staff_services
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbi_sources
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_revslider_sliders
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_terms
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbr_reviews_posts
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_yoast_indexable
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_revslider_css
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_bookly_customer_appointments
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_revslider_slides
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_sbi_instagram_posts
+[2025-05-28 18:52:21][notice]Preparing to dump table wp_postmeta
+[2025-05-28 18:52:22][notice]Preparing to dump table wp_posts
+[2025-05-28 18:52:22][notice]Preparing to dump table wp_options
+[2025-05-28 18:52:22][notice]Exporting database finished.
+[2025-05-28 18:52:22][notice]Start compressing database
+[2025-05-28 18:52:22][notice]Prepare to zip file. file: localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_db.sql
+[2025-05-28 18:52:22][notice]Adding zip files completed.localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_db.part001.zip, filesize: 813,32 KB
+[2025-05-28 18:52:22][notice]Compressing database completed
+[2025-05-28 18:52:22][notice]Backing up backup_db completed.
+[2025-05-28 18:52:22][notice]Prepare to backup backup_themes files.
+[2025-05-28 18:52:22][notice]Compressing zip file:localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_themes.part001.zip index:1334
+[2025-05-28 18:52:47][notice]Compressing zip file:localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_themes.part001.zip success. index:1334 file size:35,82 MB
+[2025-05-28 18:52:47][notice]Backing up backup_themes completed.
+[2025-05-28 18:52:47][notice]Prepare to backup backup_plugin files.
+[2025-05-28 18:52:52][notice]Compressing zip file:localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_plugin.part001.zip index:13226
+[2025-05-28 18:53:52][notice]Compressing zip file:localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_plugin.part001.zip success. index:13226 file size:59,32 MB
+[2025-05-28 18:53:53][notice]Compressing zip file:localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_plugin.part002.zip index:14725
+[2025-05-28 18:54:14][notice]Compressing zip file:localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_plugin.part002.zip success. index:14725 file size:6,19 MB
+[2025-05-28 18:54:14][notice]Backing up backup_plugin completed.
+[2025-05-28 18:54:14][notice]Prepare to backup backup_uploads files.
+[2025-05-28 18:54:15][notice]Compressing zip file:localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_uploads.part001.zip index:1958
+[2025-05-28 18:54:27][notice]Compressing zip file:localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_uploads.part001.zip success. index:1958 file size:84,84 MB
+[2025-05-28 18:54:27][notice]Backing up backup_uploads completed.
+[2025-05-28 18:54:27][notice]Prepare to backup backup_content files.
+[2025-05-28 18:54:28][notice]Compressing zip file:localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_content.part001.zip index:305
+[2025-05-28 18:54:30][notice]Compressing zip file:localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_content.part001.zip success. index:305 file size:3,08 MB
+[2025-05-28 18:54:30][notice]Backing up backup_content completed.
+[2025-05-28 18:54:30][notice]Prepare to backup backup_core files.
+[2025-05-28 18:54:30][notice]Compressing zip file:localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_core.part001.zip index:1675
+[2025-05-28 18:55:12][notice]Compressing zip file:localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_core.part001.zip success. index:1675 file size:10,39 MB
+[2025-05-28 18:55:12][notice]Backing up backup_core completed.
+[2025-05-28 18:55:12][notice]Prepare to backup backup_merge files.
+[2025-05-28 18:55:12][notice]Prepare to zip file. file: localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_db.zip
+[2025-05-28 18:55:12][notice]Adding zip files completed.localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_all.part001.zip, filesize: 805,38 KB
+[2025-05-28 18:55:12][notice]Prepare to zip file. file: localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_themes.zip
+[2025-05-28 18:55:13][notice]Adding zip files completed.localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_all.part001.zip, filesize: 36,41 MB
+[2025-05-28 18:55:13][notice]Prepare to zip file. file: localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_plugin.part001.zip
+[2025-05-28 18:55:15][notice]Adding zip files completed.localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_all.part001.zip, filesize: 92,63 MB
+[2025-05-28 18:55:15][notice]Prepare to zip file. file: localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_plugin.part002.zip
+[2025-05-28 18:55:15][notice]Adding zip files completed.localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_all.part001.zip, filesize: 98,56 MB
+[2025-05-28 18:55:15][notice]Prepare to zip file. file: localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_uploads.zip
+[2025-05-28 18:55:18][notice]Adding zip files completed.localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_all.part001.zip, filesize: 183,19 MB
+[2025-05-28 18:55:18][notice]Prepare to zip file. file: localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_content.zip
+[2025-05-28 18:55:19][notice]Adding zip files completed.localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_all.part001.zip, filesize: 186,23 MB
+[2025-05-28 18:55:20][notice]Prepare to zip file. file: localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_core.zip
+[2025-05-28 18:55:20][notice]Adding zip files completed.localhost_motogrua_wpvivid-f1a01d61a7580_2025-05-28-18-52_backup_all.part001.zip, filesize: 196,40 MB
+[2025-05-28 18:55:21][notice]Backing up backup_merge completed.
+[2025-05-28 18:55:21][notice]Backup completed.

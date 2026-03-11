@@ -1,0 +1,263 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Motors - Equipment\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-13 06:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: templates/vc_parts/category_grid_style_1.php:19
+#, php-format
+msgid "%s Vehicles"
+msgstr ""
+
+#: templates/parts/single-car/car-price-title.php:46
+#, php-format
+msgid "%s/Day"
+msgstr ""
+
+#: templates/parts/single-car/car-price-title.php:47
+#, php-format
+msgid "<span>%s</span>/Day"
+msgstr ""
+
+#: templates/vc_parts/grid-loop.php:113
+msgid "Add to compare"
+msgstr ""
+
+#: inc/visual_composer.php:223
+msgid "Address"
+msgstr ""
+
+#: vc_templates/stm_equip_inventory.php:36
+#: vc_templates/stm_equip_featured.php:45
+msgid "Available"
+msgstr ""
+
+#: inc/visual_composer.php:108
+msgid "Carousel BG"
+msgstr ""
+
+#: templates/vc_parts/grid-loop.php:115
+#: templates/parts/single-car/car-gallery.php:39
+msgid "Compare"
+msgstr ""
+
+#: vc_templates/stm_equip_contact_info.php:9
+msgid "Contact Information"
+msgstr ""
+
+#: inc/visual_composer.php:47 inc/visual_composer.php:87
+#: inc/visual_composer.php:113 inc/visual_composer.php:128
+#: inc/visual_composer.php:143 inc/visual_composer.php:158
+#: inc/visual_composer.php:173 inc/visual_composer.php:188
+#: inc/visual_composer.php:203 inc/visual_composer.php:243
+msgid "Css"
+msgstr ""
+
+#: inc/visual_composer.php:49 inc/visual_composer.php:89
+#: inc/visual_composer.php:115 inc/visual_composer.php:130
+#: inc/visual_composer.php:145 inc/visual_composer.php:160
+#: inc/visual_composer.php:175 inc/visual_composer.php:190
+#: inc/visual_composer.php:205 inc/visual_composer.php:245
+msgid "Design options"
+msgstr ""
+
+#: vc_templates/stm_equip_contact_info.php:37
+msgid "Email:"
+msgstr ""
+
+#: inc/visual_composer.php:65
+msgid "Equipment"
+msgstr ""
+
+#. Description of the plugin
+msgid "Equipment layout"
+msgstr ""
+
+#: vc_templates/stm_equip_inventory.php:19
+msgid "For Sale"
+msgstr ""
+
+#: templates/parts/single-car/car-links.php:67
+msgid "History report"
+msgstr ""
+
+#: inc/visual_composer.php:238
+msgid "Hours"
+msgstr ""
+
+#: templates/vc_parts/grid-loop.php:146
+msgid "Hours:"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://stylemixthemes.com/"
+msgstr ""
+
+#: inc/visual_composer.php:233
+msgid "Mail"
+msgstr ""
+
+#. Name of the plugin
+msgid "Motors - Equipment"
+msgstr ""
+
+#: inc/visual_composer.php:228
+msgid "Phone"
+msgstr ""
+
+#: vc_templates/stm_equip_contact_info.php:27
+msgid "Phone:"
+msgstr ""
+
+#: templates/parts/single-car/car-gallery.php:21
+msgid "Placeholder"
+msgstr ""
+
+#: templates/parts/single-car/car-price-title.php:67
+msgid "Price"
+msgstr ""
+
+#: templates/parts/single-car/car-links.php:37
+msgid "Quote by Phone"
+msgstr ""
+
+#: templates/parts/single-car/car-price-title.php:46
+msgid "Rent Price"
+msgstr ""
+
+#: templates/vc_parts/grid-loop.php:90
+msgid "Rent price"
+msgstr ""
+
+#: templates/parts/single-car/car-links.php:21
+msgid "Request a quote"
+msgstr ""
+
+#: templates/vc_parts/grid-loop.php:86
+msgid "Sale price"
+msgstr ""
+
+#: templates/parts/single-car/car-links.php:29
+msgid "Schedule test drive"
+msgstr ""
+
+#: inc/visual_composer.php:36 vc_templates/stm_equip_search.php:26
+msgid "Search"
+msgstr ""
+
+#: inc/visual_composer.php:34
+msgid "Search button title"
+msgstr ""
+
+#: inc/visual_composer.php:80
+msgid "Select category"
+msgstr ""
+
+#: inc/visual_composer.php:69
+msgid "Select Style"
+msgstr ""
+
+#: inc/visual_composer.php:40
+msgid "Select Taxonomies, which will be in this tab as filter"
+msgstr ""
+
+#: templates/parts/single-car/car-links.php:60
+msgid "Share this"
+msgstr ""
+
+#: vc_templates/stm_equip_inventory.php:55
+msgid "Sorry, No results"
+msgstr ""
+
+#: inc/visual_composer.php:56
+msgid "STM Category Grid Filter"
+msgstr ""
+
+#: inc/visual_composer.php:212
+msgid "STM Contact Information"
+msgstr ""
+
+#: inc/visual_composer.php:137
+msgid "STM Equip Data"
+msgstr ""
+
+#: inc/visual_composer.php:182
+msgid "STM Equip Gallery"
+msgstr ""
+
+#: inc/visual_composer.php:152
+msgid "STM Equip Links"
+msgstr ""
+
+#: inc/visual_composer.php:167
+msgid "STM Equip Title Price"
+msgstr ""
+
+#: inc/visual_composer.php:30 inc/visual_composer.php:59
+#: inc/visual_composer.php:98 inc/visual_composer.php:124
+#: inc/visual_composer.php:139 inc/visual_composer.php:154
+#: inc/visual_composer.php:169 inc/visual_composer.php:184
+#: inc/visual_composer.php:199 inc/visual_composer.php:214
+msgid "STM Equipment"
+msgstr ""
+
+#: inc/visual_composer.php:96
+msgid "STM Featured"
+msgstr ""
+
+#: inc/visual_composer.php:197
+msgid "STM Grid Gallery"
+msgstr ""
+
+#: inc/visual_composer.php:122
+msgid "STM Inventory"
+msgstr ""
+
+#: inc/visual_composer.php:27
+msgid "STM Search"
+msgstr ""
+
+#: templates/vc_parts/grid-loop.php:143
+msgid "Stock#"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#: inc/visual_composer.php:63 inc/visual_composer.php:103
+#: inc/visual_composer.php:218
+msgid "Title"
+msgstr ""
+
+#: templates/parts/single-car/car-links.php:45
+msgid "Trade In"
+msgstr ""
+
+#: templates/parts/items-per-page.php:15
+msgid "Vehicles per page:"
+msgstr ""
+
+#: templates/parts/single-car/car-data.php:74
+msgid "Vin"
+msgstr ""
+
+#: templates/vc_parts/grid-loop.php:13
+msgid "Watch full information about"
+msgstr ""
+
+#: templates/parts/single-car/car-links.php:53
+msgid "Сalculate Payment"
+msgstr ""

@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 29 de March de 2024 19:47
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.8.1
+WORDPRESS:	6.4.3
+PHP INFO:	8.0.1 | SAPI: apache2handler
+SERVER:		Apache/2.4.33 (Win64) OpenSSL/1.0.2u mod_fcgid/2.3.9 PHP/8.0.1 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (128M default) 
+MEMORY STACK: 6MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported
+TABLES: total:19 | filtered:0 | create:19
+FILTERED: []
+SQL CREATED: barquitodepapelxd_acd3366258a123689103_20240329194635_database.sql
+SQL FILE SIZE: 608.78KB (623395)
+SQL FILE TIME: 2024-03-29 19:47:15
+SQL RUNTIME: 3.73 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/MAMP/htdocs/barquitodepapel
+ARCHIVE FILE: barquitodepapelxd_acd3366258a123689103_20240329194635_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	294.97MB
+STATS:	Dirs 926 | Files 5,254
+SQL ADDED: barquitodepapelxd_acd3366258a123689103_20240329194635_database.sql
+ZipArchive Object
+(
+    [lastId] => 6179
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6180
+    [filename] => C:\MAMP\htdocs\barquitodepapel\wp-content\backups-dup-lite\tmp\barquitodepapelxd_acd3366258a123689103_20240329194635_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 6179
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 228.21MB
+ARCHIVE RUNTIME: 44.48 sec.
+MEMORY STACK: 8MB
+building installer
+PRUEBA DE CONSISTENCIA DEL ARCHIVO: SUPERADA
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 608.78KB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 230.07MB 
+RECUENTO ARCHIVOS/DIRECTORIOS ESPERADOS: 6,180
+RECUENTO ARCHIVOS/DIRECTORIOS ACTUALES: 6,179
+PRUEBA DE CONSISTENCIA DEL ARCHIVO: Superado
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 53.79 sec.
+PEAK PHP MEMORY USED: 8MB
+DONE PROCESSING => barquitodepapelxd 29 de March de 2024 19:48
+

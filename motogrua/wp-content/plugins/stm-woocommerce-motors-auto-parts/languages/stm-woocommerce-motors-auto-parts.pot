@@ -1,0 +1,380 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Motors - WooCommerce Auto Parts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-23 04:39+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.0.3"
+
+#: inc/functions.php:294
+msgid "In stock"
+msgstr ""
+
+#: inc/functions.php:294
+msgid "Out of stock"
+msgstr ""
+
+#: inc/ClassWCMAPSearchFilter.php:182
+msgid "Select Make"
+msgstr ""
+
+#: inc/ClassWCMAPSearchFilter.php:196 inc/ClassWCMAPSearchFilter.php:231
+msgid "Select Model"
+msgstr ""
+
+#: inc/ClassWCMAPSearchFilter.php:203 inc/ClassWCMAPSearchFilter.php:233
+msgid "Select Year"
+msgstr ""
+
+#: inc/ClassWCMAPSearchFilter.php:208
+msgid "Part Number"
+msgstr ""
+
+#: inc/ClassWCMAPSearchFilter.php:212
+msgid "Search"
+msgstr ""
+
+#: inc/setup.php:11
+msgid "Single Product Sidebar"
+msgstr ""
+
+#: inc/setup.php:13
+msgid "Woocommerce single product sidebar"
+msgstr ""
+
+#: inc/visual_composer.php:10
+msgid "Date"
+msgstr ""
+
+#: inc/visual_composer.php:11
+msgid "ID"
+msgstr ""
+
+#: inc/visual_composer.php:12
+msgid "Author"
+msgstr ""
+
+#: inc/visual_composer.php:13 inc/visual_composer.php:48
+#: inc/visual_composer.php:76 inc/visual_composer.php:98
+#: inc/visual_composer.php:147 inc/visual_composer.php:208
+msgid "Title"
+msgstr ""
+
+#: inc/visual_composer.php:14
+msgid "Modified"
+msgstr ""
+
+#: inc/visual_composer.php:15
+msgid "Random"
+msgstr ""
+
+#: inc/visual_composer.php:16
+msgid "Comment count"
+msgstr ""
+
+#: inc/visual_composer.php:17
+msgid "Menu order"
+msgstr ""
+
+#: inc/visual_composer.php:18
+msgid "Menu order & title"
+msgstr ""
+
+#: inc/visual_composer.php:19
+msgid "Include"
+msgstr ""
+
+#: inc/visual_composer.php:24
+msgid "Descending"
+msgstr ""
+
+#: inc/visual_composer.php:25
+msgid "Ascending"
+msgstr ""
+
+#: inc/visual_composer.php:30
+msgid "Featured Products"
+msgstr ""
+
+#: inc/visual_composer.php:31
+msgid "Sale Products"
+msgstr ""
+
+#: inc/visual_composer.php:32
+msgid "Best Selling Products"
+msgstr ""
+
+#: inc/visual_composer.php:33
+msgid "Top Rated Products"
+msgstr ""
+
+#: inc/visual_composer.php:40
+msgid "STM WooCommerce Category MegaMenu"
+msgstr ""
+
+#: inc/visual_composer.php:43 inc/visual_composer.php:71
+#: inc/visual_composer.php:93 inc/visual_composer.php:133
+#: inc/visual_composer.php:199 inc/visual_composer.php:233
+#: inc/visual_composer.php:339 inc/visual_composer.php:398
+msgid "STM Auto Parts"
+msgstr ""
+
+#: inc/visual_composer.php:53
+msgid "Main taxonomies to fill"
+msgstr ""
+
+#: inc/visual_composer.php:55
+msgid ""
+"Type slug of the category (don't delete anything from autocompleted "
+"suggestions)"
+msgstr ""
+
+#: inc/visual_composer.php:59 inc/visual_composer.php:81
+#: inc/visual_composer.php:121 inc/visual_composer.php:187
+#: inc/visual_composer.php:218 inc/visual_composer.php:327
+msgid "Css"
+msgstr ""
+
+#: inc/visual_composer.php:61 inc/visual_composer.php:83
+#: inc/visual_composer.php:123 inc/visual_composer.php:189
+#: inc/visual_composer.php:220 inc/visual_composer.php:329
+msgid "Design options"
+msgstr ""
+
+#: inc/visual_composer.php:68
+msgid "STM Parts Search"
+msgstr ""
+
+#: inc/visual_composer.php:90
+msgid "STM Icon Filter"
+msgstr ""
+
+#: inc/visual_composer.php:103
+msgid "Select Filter Type"
+msgstr ""
+
+#: inc/visual_composer.php:112
+msgid "Show count"
+msgstr ""
+
+#: inc/visual_composer.php:115
+msgid "Yes"
+msgstr ""
+
+#: inc/visual_composer.php:130
+msgid "STM AP Info Box"
+msgstr ""
+
+#: inc/visual_composer.php:137 inc/visual_composer.php:203
+msgid "Image"
+msgstr ""
+
+#: inc/visual_composer.php:142
+msgid "Box background color"
+msgstr ""
+
+#: inc/visual_composer.php:152
+msgid "Title Link"
+msgstr ""
+
+#: inc/visual_composer.php:157
+msgid "Title color"
+msgstr ""
+
+#: inc/visual_composer.php:162
+msgid "Price label"
+msgstr ""
+
+#: inc/visual_composer.php:167
+msgid "Price value"
+msgstr ""
+
+#: inc/visual_composer.php:172
+msgid "Price color"
+msgstr ""
+
+#: inc/visual_composer.php:177
+msgid "Content color"
+msgstr ""
+
+#: inc/visual_composer.php:182 inc/visual_composer.php:213
+msgid "Text"
+msgstr ""
+
+#: inc/visual_composer.php:196
+msgid "STM AP Icon Box"
+msgstr ""
+
+#: inc/visual_composer.php:229
+msgid "STM Special Product"
+msgstr ""
+
+#: inc/visual_composer.php:230
+msgid "Show special product by title"
+msgstr ""
+
+#: inc/visual_composer.php:237
+msgid "Select product"
+msgstr ""
+
+#: inc/visual_composer.php:252
+msgid "Date end"
+msgstr ""
+
+#: inc/visual_composer.php:259
+msgid "Time end"
+msgstr ""
+
+#: inc/visual_composer.php:265
+msgid "Box title"
+msgstr ""
+
+#: inc/visual_composer.php:268 inc/visual_composer.php:279
+#: inc/visual_composer.php:289 inc/visual_composer.php:299
+#: inc/visual_composer.php:309 inc/visual_composer.php:319
+msgid "Content"
+msgstr ""
+
+#: inc/visual_composer.php:276
+msgid "Default Spacer height"
+msgstr ""
+
+#: inc/visual_composer.php:287
+msgid "Desctop (max 1300px) Spacer height"
+msgstr ""
+
+#: inc/visual_composer.php:297
+msgid "Tablet (landscape) Spacer height"
+msgstr ""
+
+#: inc/visual_composer.php:307
+msgid "Tablet Spacer height"
+msgstr ""
+
+#: inc/visual_composer.php:317
+msgid "Mobile Spacer height"
+msgstr ""
+
+#: inc/visual_composer.php:336
+msgid "STM WC Products"
+msgstr ""
+
+#: inc/visual_composer.php:340
+msgid "Show multiple products by ID or SKU."
+msgstr ""
+
+#: inc/visual_composer.php:344
+msgid "Columns"
+msgstr ""
+
+#: inc/visual_composer.php:362
+msgid "Order by"
+msgstr ""
+
+#: inc/visual_composer.php:368
+#, php-format
+msgid "Select how to sort retrieved products. More at %s. Default by Title"
+msgstr ""
+
+#: inc/visual_composer.php:372
+msgid "Sort order"
+msgstr ""
+
+#: inc/visual_composer.php:378
+#, php-format
+msgid ""
+"Designates the ascending or descending order. More at %s. Default by ASC"
+msgstr ""
+
+#: inc/visual_composer.php:382
+msgid "Products Type"
+msgstr ""
+
+#: inc/visual_composer.php:396
+msgid "STM YITH Compare"
+msgstr ""
+
+#: inc/visual_composer.php:407
+msgid "Tabs Title"
+msgstr ""
+
+#: vc_templates/stm_wcmap_icon_filter.php:46
+msgid "See all Makes"
+msgstr ""
+
+#: inc/customizer/registration.php:17
+msgid "Icon For Best Seller Product"
+msgstr ""
+
+#: inc/customizer/registration.php:21
+msgid "Icon For Top Rated Product"
+msgstr ""
+
+#: inc/customizer/registration.php:25
+msgid "Icon For Sale Product"
+msgstr ""
+
+#: inc/customizer/registration.php:29
+msgid "Best Seller Product Minimum Amount"
+msgstr ""
+
+#: inc/customizer/registration.php:34
+msgid "Best Rated Minimum Average"
+msgstr ""
+
+#: inc/customizer/registration.php:39
+msgid "Single Product Template"
+msgstr ""
+
+#: inc/customizer/registration.php:42
+msgid "Template With Sidebar"
+msgstr ""
+
+#: inc/customizer/registration.php:43
+msgid "Template 1"
+msgstr ""
+
+#: inc/customizer/registration.php:65
+msgid "WC Motors Auto Parts"
+msgstr ""
+
+#: inc/customizer/registration.php:71
+msgid "Pre Footer"
+msgstr ""
+
+#: inc/customizer/registration.php:76
+msgid "PreFooter Settings"
+msgstr ""
+
+#: inc/customizer/registration.php:80
+msgid "Sidebar"
+msgstr ""
+
+#. Name of the plugin
+msgid "Motors - WooCommerce Auto Parts"
+msgstr ""
+
+#. Description of the plugin
+msgid "Woocommerce Motors Auto Parts Shop"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://stylemixthemes.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "StylemixThemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://stylemixthemes.com/"
+msgstr ""

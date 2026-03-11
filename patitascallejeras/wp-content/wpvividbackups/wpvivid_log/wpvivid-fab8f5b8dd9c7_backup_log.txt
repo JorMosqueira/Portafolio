@@ -1,0 +1,73 @@
+Log created: 2025-12-06 16:47:02
+Type: backup
+[2025-12-06 16:47:02][notice]Start backing up.
+[2025-12-06 16:47:02][notice]server info fcgi:Off max execution time: 300 wp version:6.9 php version:7.4.16 db version:5.7.24 php ini:safe_mode: memory_limit:512M memory_get_usage:73,46 MB memory_get_peak_usage:74,46 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2025-12-06 16:47:02][notice]Prepare to backup backup_db files.
+[2025-12-06 16:47:02][notice]Start exporting database.
+[2025-12-06 16:47:02][notice]Preparing to dump table wp_wpforms_tasks_meta
+[2025-12-06 16:47:02][notice]Preparing to dump table wp_nextend2_smartslider3_generators
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_actionscheduler_groups
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_nextend2_smartslider3_sliders_xref
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_term_relationships
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_duplicator_packages
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_links
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_nextend2_image_storage
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_actionscheduler_claims
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_term_taxonomy
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_usermeta
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_termmeta
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_actionscheduler_logs
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_terms
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_commentmeta
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_wpforms_payment_meta
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_users
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_nextend2_section_storage
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_comments
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_nextend2_smartslider3_sliders
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_actionscheduler_actions
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_wpforms_payments
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_nextend2_smartslider3_slides
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_posts
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_postmeta
+[2025-12-06 16:47:03][notice]Preparing to dump table wp_options
+[2025-12-06 16:47:03][notice]Exporting database finished.
+[2025-12-06 16:47:03][notice]Start compressing database
+[2025-12-06 16:47:03][notice]Prepare to zip file. file: localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_db.sql
+[2025-12-06 16:47:03][notice]Adding zip files completed.localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_db.part001.zip, filesize: 329,20 KB
+[2025-12-06 16:47:03][notice]Compressing database completed
+[2025-12-06 16:47:03][notice]Backing up backup_db completed.
+[2025-12-06 16:47:03][notice]Prepare to backup backup_themes files.
+[2025-12-06 16:47:03][notice]Compressing zip file:localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_themes.part001.zip index:796
+[2025-12-06 16:47:05][notice]Compressing zip file:localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_themes.part001.zip success. index:796 file size:32,64 MB
+[2025-12-06 16:47:05][notice]Backing up backup_themes completed.
+[2025-12-06 16:47:05][notice]Prepare to backup backup_plugin files.
+[2025-12-06 16:47:06][notice]Compressing zip file:localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_plugin.part001.zip index:3773
+[2025-12-06 16:47:11][notice]Compressing zip file:localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_plugin.part001.zip success. index:3773 file size:19,27 MB
+[2025-12-06 16:47:11][notice]Backing up backup_plugin completed.
+[2025-12-06 16:47:11][notice]Prepare to backup backup_uploads files.
+[2025-12-06 16:47:11][notice]Compressing zip file:localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_uploads.part001.zip index:195
+[2025-12-06 16:47:12][notice]Compressing zip file:localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_uploads.part001.zip success. index:195 file size:20,45 MB
+[2025-12-06 16:47:12][notice]Backing up backup_uploads completed.
+[2025-12-06 16:47:12][notice]Prepare to backup backup_content files.
+[2025-12-06 16:47:12][notice]Compressing zip file:localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_content.part001.zip index:113
+[2025-12-06 16:47:12][notice]Compressing zip file:localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_content.part001.zip success. index:113 file size:1,70 MB
+[2025-12-06 16:47:12][notice]Backing up backup_content completed.
+[2025-12-06 16:47:12][notice]Prepare to backup backup_core files.
+[2025-12-06 16:47:13][notice]Compressing zip file:localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_core.part001.zip index:2916
+[2025-12-06 16:47:16][notice]Compressing zip file:localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_core.part001.zip success. index:2916 file size:14,58 MB
+[2025-12-06 16:47:16][notice]Backing up backup_core completed.
+[2025-12-06 16:47:16][notice]Prepare to backup backup_merge files.
+[2025-12-06 16:47:16][notice]Prepare to zip file. file: localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_db.zip
+[2025-12-06 16:47:16][notice]Adding zip files completed.localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_all.part001.zip, filesize: 329,55 KB
+[2025-12-06 16:47:16][notice]Prepare to zip file. file: localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_themes.zip
+[2025-12-06 16:47:17][notice]Adding zip files completed.localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_all.part001.zip, filesize: 32,84 MB
+[2025-12-06 16:47:17][notice]Prepare to zip file. file: localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_plugin.zip
+[2025-12-06 16:47:17][notice]Adding zip files completed.localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_all.part001.zip, filesize: 51,25 MB
+[2025-12-06 16:47:18][notice]Prepare to zip file. file: localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_uploads.zip
+[2025-12-06 16:47:18][notice]Adding zip files completed.localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_all.part001.zip, filesize: 71,69 MB
+[2025-12-06 16:47:18][notice]Prepare to zip file. file: localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_content.zip
+[2025-12-06 16:47:18][notice]Adding zip files completed.localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_all.part001.zip, filesize: 73,38 MB
+[2025-12-06 16:47:18][notice]Prepare to zip file. file: localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_core.zip
+[2025-12-06 16:47:20][notice]Adding zip files completed.localhost_patitascallejeras_wpvivid-fab8f5b8dd9c7_2025-12-06-16-47_backup_all.part001.zip, filesize: 87,51 MB
+[2025-12-06 16:47:20][notice]Backing up backup_merge completed.
+[2025-12-06 16:47:20][notice]Backup completed.

@@ -1,0 +1,125 @@
+.stm_wcmap_parts_search_wrap {
+    display: flex;
+    flex-direction: column;
+    background: #191919;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 20px 30px 30px;
+    border-radius: 3px;
+
+    .stm_wcmap_title_wrap {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        align-items: center;
+        justify-content: flex-start;
+        margin-bottom: 18px;
+
+        i {
+            margin-right: 14px;
+            font-size: 18px;
+        }
+
+        h2 {
+            font-size: 18px;
+            line-height: 24px;
+            font-weight: 500;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+        }
+    }
+
+    .wcmap-part-filter {
+        display: block;
+        width: 100%;
+
+        select, input, button {
+            width: 100%;
+            height: 42px;
+            line-height: 42px;
+        }
+
+        button {
+            color: #191919;
+        }
+
+        .select2.opacity {
+            opacity: 0.5;
+        }
+
+        .select2, input {
+            font-size: 14px;
+            color: #191d21;
+            border: none;
+            border-radius: 0;
+            background: #ffffff;
+        }
+
+        .select2 {
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            text-indent: 10px;
+
+            .select2-selection {
+                border: 0;
+                height: 42px;
+                font-size: 14px;
+                color: #191d21;
+                background: #ffffff;
+                line-height: 42px;
+            }
+
+            .select2-selection__rendered {
+                height: 42px;
+                line-height: 42px;
+            }
+
+            .select2-selection__arrow {
+                height: 40px;
+                line-height: 40px;
+
+                b {
+                    position: relative;
+                    border: 0;
+                    margin: 0;
+
+                    &:before {
+                        content: "\f078";
+                        display: block;
+                        font-family: 'FontAwesome';
+                        font-size: 10px;
+                        position: absolute;
+                        top: 50%;
+                        right: 10px;
+                        transform: translateY(-50%);
+                        z-index: 10;
+                    }
+                }
+            }
+        }
+
+        .select-wrap {
+            display: block;
+            position: relative;
+        }
+
+        button {
+            padding: 1px 28px 0;
+        }
+    }
+
+    @media (max-width: 900px) {
+        .wcmap-part-filter {
+            .row {
+                >* {
+                    margin-bottom: 20px;
+
+                    &:last-child {
+                        margin-bottom: 0;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,44 @@
+#yith-woocompare {
+    table {
+        tbody {
+            tr {
+                &:nth-child(even) {
+                    th, td{
+                        background-color: #ffffff !important;
+                    }
+                }
+
+                &:nth-child(odd) {
+                    th, td{
+                        background-color: #E5E5E5 !important;
+                    }
+                }
+
+                th, td {
+                    padding: 15px 30px;
+
+                    img {
+                        margin: 0;
+                    }
+
+                    a.button {
+                        display: inline-block;
+                        margin: 0;
+                        padding: 10px 20px;
+                        border: 3px;
+                    }
+                }
+
+                th {
+                    font-weight: 400;
+                    font-size: 13px;
+                }
+
+                td {
+                    font-size: 14px;
+                    font-weight: 600;
+                }
+            }
+        }
+    }
+}

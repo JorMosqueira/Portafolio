@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "nombre": "Bloodborne",
+      "plataforma": "Plataforma: Playstation 4",
+      "avatar": "img/bloodborne.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Grand theft Auto: IV",
+        "plataforma": "Plataforma: Playstation 3",
+        "avatar": "img/gtaiv.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Metal Gear Solid 3",
+        "plataforma": "Plataforma: Playstation 2, Playstation 3",
+        "avatar": "img/metalgear3.webp"
+      },
+      {
+          "id": 4,
+          "nombre": "The Last of Us",
+          "plataforma": "Plataforma: Playstation 5",
+          "avatar": "img/tlou1.webp"
+        }
+    
+]

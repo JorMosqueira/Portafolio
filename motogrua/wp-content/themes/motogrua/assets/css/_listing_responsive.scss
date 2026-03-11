@@ -1,0 +1,25 @@
+@media (max-width: 767px) {
+    .theme-motors {
+
+        .listing-list-loop.stm-listing-directory-list-loop .stm-listing-compare {
+            right: auto;
+            left: 7px;
+            opacity: 1;
+            z-index: 9999;
+        }
+
+        .listing-list-loop.stm-listing-directory-list-loop .stm-listing-favorite {
+            right: auto;
+            left: 45px;
+            bottom: 7px;
+            opacity: 1;
+            z-index: 9999;
+        }
+
+        .stm_edit_disable_car {
+            opacity: 1;
+            bottom: 40px;
+        }
+
+    }
+}

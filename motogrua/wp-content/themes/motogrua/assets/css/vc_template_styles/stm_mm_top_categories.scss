@@ -1,0 +1,81 @@
+$green: #1bc744;
+
+.stm_mm_top_categories_wrap {
+    h3 {
+        font-size: 16px;
+        font-weight: 700;
+        color: #002e5b !important;
+        margin-bottom: 3px;
+    }
+
+    .stm_mm-cats-grid {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+
+        a {
+            display: block;
+            width: 33.33%;
+            max-width: 84px;
+            height: 84px;
+            padding: 5px !important;
+            border: 1px solid #ffffff !important;
+            transition: all .2s ease-in-out;
+            background: transparent !important;
+            border-radius: 4px;
+            margin-bottom: 19px;
+
+            &:nth-last-child(1), &:nth-last-child(2), &:nth-last-child(3) {
+                margin-bottom: 0;
+            }
+
+            &:before {
+                display: none !important;
+            }
+
+            &:hover {
+                border-color: #d2d2d2 !important;
+                .inner {
+                    .name {
+                        color: $green !important;
+                    }
+                }
+            }
+
+            .inner {
+                display: flex;
+                flex-direction: column;
+                justify-content: flex-end;
+                align-items: center;
+                width: 100%;
+                height: 100%;
+                padding: 0 !important;
+
+                .image {
+                    display: block;
+                    max-width: 67px;
+
+                    img {
+                        display: block;
+                        position: relative;
+                        width: 100%;
+                        //transform: translateZ(0);
+                    }
+                }
+
+                .name {
+                    font-size: 13px;
+                    font-weight: 400;
+                    color: #777777;
+                    transition: all .2s ease-in-out;
+                    letter-spacing: 0;
+                    text-transform: capitalize;
+                    line-height: 20px;
+                    text-align: center;
+                }
+            }
+        }
+    }
+}

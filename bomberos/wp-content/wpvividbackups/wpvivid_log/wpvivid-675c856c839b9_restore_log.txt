@@ -1,0 +1,135 @@
+[2024-12-13 16:05:17][notice]Start restoring themes.
+[2024-12-13 16:05:17][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_all.zip
+[2024-12-13 16:05:18][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_all.zip succeeded.
+[2024-12-13 16:05:18][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_themes.zip index:0
+[2024-12-13 16:05:19][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_themes.zip index:0 finished.
+[2024-12-13 16:05:19][notice]End restore themes.
+[2024-12-13 16:05:21][notice]Start restoring themes.
+[2024-12-13 16:05:22][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_themes.zip index:1000
+[2024-12-13 16:05:25][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_themes.zip index:1000 finished.
+[2024-12-13 16:05:25][notice]End restore themes.
+[2024-12-13 16:05:27][notice]Start restoring plugin.
+[2024-12-13 16:05:27][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_all.zip
+[2024-12-13 16:05:27][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_all.zip succeeded.
+[2024-12-13 16:05:28][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_plugin.zip index:0
+[2024-12-13 16:05:31][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_plugin.zip index:0 finished.
+[2024-12-13 16:05:31][notice]End restore plugin.
+[2024-12-13 16:05:34][notice]Start restoring plugin.
+[2024-12-13 16:05:34][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_plugin.zip index:1000
+[2024-12-13 16:05:46][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_plugin.zip index:1000 finished.
+[2024-12-13 16:05:46][notice]End restore plugin.
+[2024-12-13 16:05:49][notice]Start restoring plugin.
+[2024-12-13 16:05:49][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_plugin.zip index:2000
+[2024-12-13 16:05:50][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_plugin.zip index:2000 finished.
+[2024-12-13 16:05:50][notice]End restore plugin.
+[2024-12-13 16:05:54][notice]Start restoring wp-content.
+[2024-12-13 16:05:55][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_all.zip
+[2024-12-13 16:05:55][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_all.zip succeeded.
+[2024-12-13 16:05:56][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_content.zip index:0
+[2024-12-13 16:05:56][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_content.zip index:0 finished.
+[2024-12-13 16:05:56][notice]End restore wp-content.
+[2024-12-13 16:05:59][notice]Start restoring upload.
+[2024-12-13 16:06:00][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_all.zip
+[2024-12-13 16:06:00][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_all.zip succeeded.
+[2024-12-13 16:06:01][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_uploads.zip index:0
+[2024-12-13 16:06:05][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_uploads.zip index:0 finished.
+[2024-12-13 16:06:05][notice]End restore upload.
+[2024-12-13 16:06:08][notice]Start restoring wp-core.
+[2024-12-13 16:06:08][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_all.zip
+[2024-12-13 16:06:08][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_all.zip succeeded.
+[2024-12-13 16:06:08][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_core.zip
+[2024-12-13 16:06:17][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_core.zip succeeded.
+[2024-12-13 16:06:17][notice]End restore wp-core.
+[2024-12-13 16:06:21][notice]Start restoring databases.
+[2024-12-13 16:06:21][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_all.zip
+[2024-12-13 16:06:21][notice]Extracting file:localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_all.zip finished.
+[2024-12-13 16:06:21][notice]Extracting file:C:\MAMP\htdocs\bomberos/wp-content\wpvividbackups\localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_db.zip
+[2024-12-13 16:06:22][notice]Extracting file:C:\MAMP\htdocs\bomberos/wp-content\wpvividbackups\localhost_bomberos_wpvivid-f48aaa697ed8d_2024-12-13-15-47_backup_db.zip finished.
+[2024-12-13 16:06:22][notice]End restore databases.
+[2024-12-13 16:06:26][notice]Start restoring databases.
+[2024-12-13 16:06:26][notice]Start restoring sql file offset:0
+[2024-12-13 16:06:30][notice]The test to drop table succeeds.
+[2024-12-13 16:06:30][notice]Drop table if exist tmp7d89ea_nextend2_smartslider3_generators
+[2024-12-13 16:06:33][notice]Creating table tmp7d89ea_nextend2_smartslider3_generators
+[2024-12-13 16:06:33][notice]Drop table if exist tmp7d89ea_links
+[2024-12-13 16:06:36][notice]Creating table tmp7d89ea_links
+[2024-12-13 16:06:36][notice]Drop table if exist tmp7d89ea_nextend2_image_storage
+[2024-12-13 16:06:40][notice]Creating table tmp7d89ea_nextend2_image_storage
+[2024-12-13 16:06:42][notice]Drop table if exist tmp7d89ea_nextend2_smartslider3_sliders_xref
+[2024-12-13 16:06:45][notice]Creating table tmp7d89ea_nextend2_smartslider3_sliders_xref
+[2024-12-13 16:06:46][notice]Drop table if exist tmp7d89ea_term_relationships
+[2024-12-13 16:06:48][notice]Creating table tmp7d89ea_term_relationships
+[2024-12-13 16:06:55][notice]Drop table if exist tmp7d89ea_commentmeta
+[2024-12-13 16:06:56][notice]Creating table tmp7d89ea_commentmeta
+[2024-12-13 16:06:57][notice]Drop table if exist tmp7d89ea_nextend2_smartslider3_sliders
+[2024-12-13 16:06:59][notice]Creating table tmp7d89ea_nextend2_smartslider3_sliders
+[2024-12-13 16:07:00][notice]Drop table if exist tmp7d89ea_term_taxonomy
+[2024-12-13 16:07:02][notice]Creating table tmp7d89ea_term_taxonomy
+[2024-12-13 16:07:03][notice]Drop table if exist tmp7d89ea_termmeta
+[2024-12-13 16:07:04][notice]Creating table tmp7d89ea_termmeta
+[2024-12-13 16:07:04][notice]Drop table if exist tmp7d89ea_terms
+[2024-12-13 16:07:05][notice]Creating table tmp7d89ea_terms
+[2024-12-13 16:07:07][notice]Drop table if exist tmp7d89ea_usermeta
+[2024-12-13 16:07:08][notice]Creating table tmp7d89ea_usermeta
+[2024-12-13 16:07:12][notice]Drop table if exist tmp7d89ea_users
+[2024-12-13 16:07:15][notice]Creating table tmp7d89ea_users
+[2024-12-13 16:07:16][notice]Drop table if exist tmp7d89ea_nextend2_section_storage
+[2024-12-13 16:07:19][notice]Creating table tmp7d89ea_nextend2_section_storage
+[2024-12-13 16:07:21][notice]Drop table if exist tmp7d89ea_comments
+[2024-12-13 16:07:26][notice]Creating table tmp7d89ea_comments
+[2024-12-13 16:07:26][notice]Drop table if exist tmp7d89ea_postmeta
+[2024-12-13 16:07:27][notice]Creating table tmp7d89ea_postmeta
+[2024-12-13 16:08:25][notice]Drop table if exist tmp7d89ea_posts
+[2024-12-13 16:08:26][notice]Creating table tmp7d89ea_posts
+[2024-12-13 16:08:42][notice]Drop table if exist tmp7d89ea_nextend2_smartslider3_slides
+[2024-12-13 16:08:42][notice]Creating table tmp7d89ea_nextend2_smartslider3_slides
+[2024-12-13 16:08:43][notice]Drop table if exist tmp7d89ea_options
+[2024-12-13 16:08:43][notice]Creating table tmp7d89ea_options
+[2024-12-13 16:09:02][notice]Start replacing table tmp7d89ea_options offset:0
+[2024-12-13 16:09:02][notice]
+[2024-12-13 16:09:02][notice]
+[2024-12-13 16:09:02][notice]UPDATE tmp7d89ea_options SET option_value="http://localhost/bomberos" WHERE option_name="siteurl";
+[2024-12-13 16:09:02][notice]update query len:98
+[2024-12-13 16:09:02][notice]UPDATE tmp7d89ea_options SET option_value="http://localhost/bomberos" WHERE option_name="home";
+[2024-12-13 16:09:02][notice]update query len:95
+[2024-12-13 16:09:02][notice]Restore db success
+[2024-12-13 16:09:02][notice]End restore databases.
+[2024-12-13 16:09:05][notice]Restore db success,now start rename temp table name prefix to new site prefix.
+[2024-12-13 16:09:06][notice]DROP TABLE IF EXISTS wp_commentmeta
+[2024-12-13 16:09:06][notice]DROP TABLE IF EXISTS wp_comments
+[2024-12-13 16:09:06][notice]DROP TABLE IF EXISTS wp_links
+[2024-12-13 16:09:07][notice]DROP TABLE IF EXISTS wp_nextend2_image_storage
+[2024-12-13 16:09:07][notice]DROP TABLE IF EXISTS wp_nextend2_section_storage
+[2024-12-13 16:09:07][notice]DROP TABLE IF EXISTS wp_nextend2_smartslider3_generators
+[2024-12-13 16:09:08][notice]DROP TABLE IF EXISTS wp_nextend2_smartslider3_sliders
+[2024-12-13 16:09:08][notice]DROP TABLE IF EXISTS wp_nextend2_smartslider3_sliders_xref
+[2024-12-13 16:09:09][notice]DROP TABLE IF EXISTS wp_nextend2_smartslider3_slides
+[2024-12-13 16:09:09][notice]DROP TABLE IF EXISTS wp_options
+[2024-12-13 16:09:09][notice]DROP TABLE IF EXISTS wp_postmeta
+[2024-12-13 16:09:10][notice]DROP TABLE IF EXISTS wp_posts
+[2024-12-13 16:09:10][notice]DROP TABLE IF EXISTS wp_term_relationships
+[2024-12-13 16:09:11][notice]DROP TABLE IF EXISTS wp_term_taxonomy
+[2024-12-13 16:09:11][notice]DROP TABLE IF EXISTS wp_termmeta
+[2024-12-13 16:09:11][notice]DROP TABLE IF EXISTS wp_terms
+[2024-12-13 16:09:11][notice]DROP TABLE IF EXISTS wp_usermeta
+[2024-12-13 16:09:12][notice]DROP TABLE IF EXISTS wp_users
+[2024-12-13 16:09:12][notice]RENAME TABLE tmp7d89ea_commentmeta TO wp_commentmeta
+[2024-12-13 16:09:12][notice]RENAME TABLE tmp7d89ea_comments TO wp_comments
+[2024-12-13 16:09:12][notice]RENAME TABLE tmp7d89ea_links TO wp_links
+[2024-12-13 16:09:12][notice]RENAME TABLE tmp7d89ea_nextend2_image_storage TO wp_nextend2_image_storage
+[2024-12-13 16:09:13][notice]RENAME TABLE tmp7d89ea_nextend2_section_storage TO wp_nextend2_section_storage
+[2024-12-13 16:09:13][notice]RENAME TABLE tmp7d89ea_nextend2_smartslider3_generators TO wp_nextend2_smartslider3_generators
+[2024-12-13 16:09:13][notice]RENAME TABLE tmp7d89ea_nextend2_smartslider3_sliders TO wp_nextend2_smartslider3_sliders
+[2024-12-13 16:09:14][notice]RENAME TABLE tmp7d89ea_nextend2_smartslider3_sliders_xref TO wp_nextend2_smartslider3_sliders_xref
+[2024-12-13 16:09:14][notice]RENAME TABLE tmp7d89ea_nextend2_smartslider3_slides TO wp_nextend2_smartslider3_slides
+[2024-12-13 16:09:14][notice]RENAME TABLE tmp7d89ea_options TO wp_options
+[2024-12-13 16:09:14][notice]RENAME TABLE tmp7d89ea_postmeta TO wp_postmeta
+[2024-12-13 16:09:15][notice]RENAME TABLE tmp7d89ea_posts TO wp_posts
+[2024-12-13 16:09:15][notice]RENAME TABLE tmp7d89ea_term_relationships TO wp_term_relationships
+[2024-12-13 16:09:15][notice]RENAME TABLE tmp7d89ea_term_taxonomy TO wp_term_taxonomy
+[2024-12-13 16:09:15][notice]RENAME TABLE tmp7d89ea_termmeta TO wp_termmeta
+[2024-12-13 16:09:15][notice]RENAME TABLE tmp7d89ea_terms TO wp_terms
+[2024-12-13 16:09:15][notice]RENAME TABLE tmp7d89ea_usermeta TO wp_usermeta
+[2024-12-13 16:09:16][notice]RENAME TABLE tmp7d89ea_users TO wp_users
+[2024-12-13 16:09:16][notice]Replacing table prefix succeeded.
+[2024-12-13 16:09:18][notice]Deleting temp files.

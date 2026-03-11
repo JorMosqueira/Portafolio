@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//localhost/motogrua/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://localhost/motogrua/page-sitemap.xml</loc>
+		<lastmod>2024-04-13T20:37:13+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost/motogrua/product-sitemap.xml</loc>
+		<lastmod>2020-06-05T21:23:47+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

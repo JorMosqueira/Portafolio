@@ -1,0 +1,124 @@
+.stm-wcmap-compare {
+    table {
+        table-layout: fixed;
+        tbody {
+            tr {
+                &:nth-child(even) {
+                    th, td{
+                        background-color: #ffffff !important;
+                    }
+                }
+
+                &:nth-child(odd) {
+                    th, td{
+                        background-color: #E5E5E5 !important;
+                    }
+                }
+
+                th, td {
+                    padding: 15px 30px;
+                    border: none;
+
+                    img {
+                        margin: 0;
+                    }
+
+                    a.button {
+                        display: inline-block;
+                        margin: 0;
+                        padding: 10px 20px;
+                        border: 3px;
+                    }
+                }
+
+                th {
+                    font-weight: 400;
+                    font-size: 13px;
+                    color: #777777;
+                }
+
+                td {
+                    width: auto;
+                    font-size: 14px;
+                    font-weight: 600;
+                    color: #595959;
+                    text-align: center;
+                }
+
+                &.remove {
+
+                    td {
+                        text-align: center;
+                    }
+
+                    a {
+                        color: #191919;
+
+                        span {
+                            display: none;
+                        }
+                    }
+                }
+
+                &.title {
+                    td {
+                        font-weight: 700;
+                        letter-spacing: 0;
+                    }
+                }
+
+                &.price {
+                    td{
+                        color: #555555;
+                        font-weight: 400;
+                        margin-top: 9px;
+                        margin-bottom: 0;
+                        font-size: 14px;
+
+                        del {
+                            color: #212121;
+                            display: inline-block;
+                            font-weight: 400;
+                            font-size: 14px;
+                        }
+
+                        >.amount, ins {
+                            margin-left: 4px;
+                            text-decoration: none;
+                            background: 0 0;
+                            font-weight: 500;
+                            font-size: 20px;
+                            color: #cc0033;
+                        }
+
+                        .from {
+                            font-size: .67em;
+                            margin: -2px 0 0;
+                            text-transform: uppercase;
+                            color: rgba(132, 132, 132, 0.5);
+                        }
+                    }
+                }
+
+                &.add-to-cart {
+
+                    td {
+                        a {
+                            display: inline-block;
+                            position: relative;
+                            width: auto;
+                            height: 40px;
+                            line-height: 38px;
+                            border-radius: 3px;
+                            overflow: hidden;
+                            color: #191919;
+                            padding: 0 16px;
+                            margin-bottom: 0;
+                            vertical-align: middle;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

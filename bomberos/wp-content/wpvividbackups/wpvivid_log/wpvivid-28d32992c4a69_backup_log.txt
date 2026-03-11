@@ -1,0 +1,82 @@
+Log created: 2024-12-13 15:44:32
+Type: backup
+[2024-12-13 15:44:33][notice]Start backing up.
+[2024-12-13 15:44:33][notice]server info fcgi:Off max execution time: 300 wp version:6.7.1 php version:8.0.1 db version:5.7.24 php ini:safe_mode: memory_limit:256M memory_get_usage:67.49 MB memory_get_peak_usage:67.64 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2024-12-13 15:44:33][notice]Prepare to backup backup_db files.
+[2024-12-13 15:44:33][notice]Start exporting database.
+[2024-12-13 15:44:33][notice]Preparing to dump table wp_give_comments
+[2024-12-13 15:44:34][notice]Preparing to dump table wp_give_migrations
+[2024-12-13 15:44:34][notice]Preparing to dump table wp_give_revenue
+[2024-12-13 15:44:34][notice]Preparing to dump table wp_give_sequential_ordering
+[2024-12-13 15:44:34][notice]Preparing to dump table wp_nextend2_smartslider3_generators
+[2024-12-13 15:44:34][notice]Preparing to dump table wp_actionscheduler_claims
+[2024-12-13 15:44:34][notice]Preparing to dump table wp_actionscheduler_groups
+[2024-12-13 15:44:34][notice]Preparing to dump table wp_give_sessions
+[2024-12-13 15:44:34][notice]Preparing to dump table wp_links
+[2024-12-13 15:44:34][notice]Preparing to dump table wp_nextend2_image_storage
+[2024-12-13 15:44:34][notice]Preparing to dump table wp_nextend2_smartslider3_sliders_xref
+[2024-12-13 15:44:34][notice]Preparing to dump table wp_term_relationships
+[2024-12-13 15:44:34][notice]Preparing to dump table wp_actionscheduler_logs
+[2024-12-13 15:44:35][notice]Preparing to dump table wp_commentmeta
+[2024-12-13 15:44:35][notice]Preparing to dump table wp_give_commentmeta
+[2024-12-13 15:44:35][notice]Preparing to dump table wp_give_donationmeta
+[2024-12-13 15:44:35][notice]Preparing to dump table wp_give_donormeta
+[2024-12-13 15:44:35][notice]Preparing to dump table wp_give_donors
+[2024-12-13 15:44:35][notice]Preparing to dump table wp_give_formmeta
+[2024-12-13 15:44:35][notice]Preparing to dump table wp_give_subscriptionmeta
+[2024-12-13 15:44:35][notice]Preparing to dump table wp_nextend2_smartslider3_sliders
+[2024-12-13 15:44:35][notice]Preparing to dump table wp_postmeta
+[2024-12-13 15:44:35][notice]Preparing to dump table wp_term_taxonomy
+[2024-12-13 15:44:35][notice]Preparing to dump table wp_termmeta
+[2024-12-13 15:44:36][notice]Preparing to dump table wp_terms
+[2024-12-13 15:44:36][notice]Preparing to dump table wp_usermeta
+[2024-12-13 15:44:36][notice]Preparing to dump table wp_give_log
+[2024-12-13 15:44:36][notice]Preparing to dump table wp_users
+[2024-12-13 15:44:36][notice]Preparing to dump table wp_give_subscriptions
+[2024-12-13 15:44:36][notice]Preparing to dump table wp_comments
+[2024-12-13 15:44:36][notice]Preparing to dump table wp_posts
+[2024-12-13 15:44:36][notice]Preparing to dump table wp_nextend2_section_storage
+[2024-12-13 15:44:36][notice]Preparing to dump table wp_actionscheduler_actions
+[2024-12-13 15:44:36][notice]Preparing to dump table wp_nextend2_smartslider3_slides
+[2024-12-13 15:44:36][notice]Preparing to dump table wp_options
+[2024-12-13 15:44:37][notice]Exporting database finished.
+[2024-12-13 15:44:37][notice]Start compressing database
+[2024-12-13 15:44:37][notice]Prepare to zip file. file: localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_db.sql
+[2024-12-13 15:44:37][notice]Adding zip files completed.localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_db.part001.zip, filesize: 217.66 KB
+[2024-12-13 15:44:37][notice]Compressing database completed
+[2024-12-13 15:44:37][notice]Backing up backup_db completed.
+[2024-12-13 15:44:37][notice]Prepare to backup backup_themes files.
+[2024-12-13 15:44:44][notice]Compressing zip file:localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_themes.part001.zip index:1317
+[2024-12-13 15:45:06][notice]Compressing zip file:localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_themes.part001.zip success. index:1317 file size:75.41 MB
+[2024-12-13 15:45:07][notice]Backing up backup_themes completed.
+[2024-12-13 15:45:07][notice]Prepare to backup backup_plugin files.
+[2024-12-13 15:45:19][notice]Compressing zip file:localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_plugin.part001.zip index:4644
+[2024-12-13 15:45:59][notice]Compressing zip file:localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_plugin.part001.zip success. index:4644 file size:33.91 MB
+[2024-12-13 15:46:00][notice]Backing up backup_plugin completed.
+[2024-12-13 15:46:00][notice]Prepare to backup backup_uploads files.
+[2024-12-13 15:46:00][notice]Compressing zip file:localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_uploads.part001.zip index:14
+[2024-12-13 15:46:01][notice]Compressing zip file:localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_uploads.part001.zip success. index:14 file size:1.44 MB
+[2024-12-13 15:46:01][notice]Backing up backup_uploads completed.
+[2024-12-13 15:46:01][notice]Prepare to backup backup_content files.
+[2024-12-13 15:46:01][notice]Compressing zip file:localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_content.part001.zip index:145
+[2024-12-13 15:46:03][notice]Compressing zip file:localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_content.part001.zip success. index:145 file size:1.67 MB
+[2024-12-13 15:46:03][notice]Backing up backup_content completed.
+[2024-12-13 15:46:03][notice]Prepare to backup backup_core files.
+[2024-12-13 15:46:05][notice]Compressing zip file:localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_core.part001.zip index:2795
+[2024-12-13 15:46:28][notice]Compressing zip file:localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_core.part001.zip success. index:2795 file size:14.34 MB
+[2024-12-13 15:46:29][notice]Backing up backup_core completed.
+[2024-12-13 15:46:29][notice]Prepare to backup backup_merge files.
+[2024-12-13 15:46:29][notice]Prepare to zip file. file: localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_db.zip
+[2024-12-13 15:46:29][notice]Adding zip files completed.localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_all.part001.zip, filesize: 218.47 KB
+[2024-12-13 15:46:29][notice]Prepare to zip file. file: localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_themes.zip
+[2024-12-13 15:46:31][notice]Adding zip files completed.localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_all.part001.zip, filesize: 75.43 MB
+[2024-12-13 15:46:32][notice]Prepare to zip file. file: localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_plugin.zip
+[2024-12-13 15:46:36][notice]Adding zip files completed.localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_all.part001.zip, filesize: 108.22 MB
+[2024-12-13 15:46:36][notice]Prepare to zip file. file: localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_uploads.zip
+[2024-12-13 15:46:39][notice]Adding zip files completed.localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_all.part001.zip, filesize: 109.66 MB
+[2024-12-13 15:46:40][notice]Prepare to zip file. file: localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_content.zip
+[2024-12-13 15:46:43][notice]Adding zip files completed.localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_all.part001.zip, filesize: 111.32 MB
+[2024-12-13 15:46:44][notice]Prepare to zip file. file: localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_core.zip
+[2024-12-13 15:46:47][notice]Adding zip files completed.localhost_bomberos_wpvivid-28d32992c4a69_2024-12-13-15-44_backup_all.part001.zip, filesize: 125.24 MB
+[2024-12-13 15:46:51][notice]Backing up backup_merge completed.
+[2024-12-13 15:46:55][notice]Backup completed.
