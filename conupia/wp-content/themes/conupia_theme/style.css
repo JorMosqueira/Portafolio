@@ -1,0 +1,902 @@
+/*
+Theme Name: Conupia
+Theme URI: https://github.com/tidythemes/blankslate
+Author: Sergio & Benja
+Author URI: www.conupia.cl
+Description: Gremio encargado de la informar acerca de lo que sucede en la empresa.
+Version: 2024
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Nunito", sans-serif;
+}
+
+/* -------------- NAVEGACION ADOPCION ----------- */
+.pages {
+    background: #0070E3;
+    color: white;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .page {
+    color: white;
+    background: #0070E3;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+    padding: 10px 5px;
+    border-radius: 5px;
+
+  }
+  
+  .nextpostslink {
+    color: white;
+    background: #0070E3;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+    padding: 10px 5px;
+    border-radius: 5px;
+
+  }
+  
+  .previouspostslink {
+    color: white;
+    background: #0070E3;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+    padding: 10px 5px;
+    border-radius: 5px;
+
+  }
+  
+  .current {
+    color: white;
+    background: #0070E3;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.4);
+    padding: 10px 5px;
+    border-radius: 5px;
+
+  }
+  
+  .wp-pagenavi a {
+    border: none;
+    padding: 10px 20px;
+    margin-right: 20px;
+    transition: all 500ms ease-out;
+
+  }
+  
+  .wp-pagenavi a:hover {
+    background: rgba(170, 235, 255, 0.63);
+    color: black;
+  }
+  
+  .wp-pagenavi span {
+    border: none;
+    padding: 10px 20px;
+    margin-right: 20px;
+  }
+.navbar-toggler{
+    border: 2px solid white;
+    
+}
+/* ------------------------------ GENERAL ------------------------------ */
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 2.25rem;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 1.875rem;
+    font-weight: 500;
+}
+
+h4 {
+    font-size: 1.75rem;
+    font-weight: 400;
+}
+.limite-texto{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+span {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+p {
+    font-size: 1.125rem;
+    font-weight: 300;
+}
+
+.img-destacada{
+    height: 100%;
+}
+.titulos-negro{
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.titulos-azul{
+    font-weight: 700;
+    font-size: 40px;
+    color: #0070E3;
+}
+
+.lineas-horizontales{
+    border-radius: 20px;
+    color: #707070;
+    border: none;
+    height: 5px;
+    background: black;
+}
+
+.centrar-final{
+    text-align: end;
+}
+
+.navbar {
+    background-color: #0070E3;
+    padding: 20px 80px;
+}
+
+.nav-link {
+    color: white;
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-right: 25px;
+}
+
+.seccion-separador{
+    margin: 100px 0px;
+}
+
+.listas a{
+    text-decoration: none;
+    list-style: none;
+    color: #ffffff;
+}
+
+.listas li {
+    list-style: none;
+}
+
+footer{
+    background-color: #252525;
+    padding: 50px 0px;
+    color: #ffffff;
+}
+
+/* ------------------------------ INICIO ------------------------------ */
+
+/* <<< Sección del slider >>> */
+
+
+/* <<< Sección Video de participacion >>> */
+.fondo-video{
+    background-color: #EBEBEB;
+    padding: 100px 0px;
+}
+
+/* <<< Sección Conupia en Imágenes >>> */
+.img-galeria {
+    max-width: 100%;
+    height: 320px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.img-auditorio{
+    height: 320px;
+    border-radius: 10px;
+    box-shadow: -2px 5px 10px 5px rgba(196,196,196,0.44);
+
+}
+
+.img-noticia{
+    height: 285px!important;
+}
+
+/* ------------------------------ QUIENES SOMOS ------------------------------ */
+
+/* <<< Sección ¿Qué es Conupia? >>> */
+
+.info-conupia{
+    text-align: end;
+}
+
+/* <<< Sección Misión y Visión >>> */
+
+.fondo-mv{
+    background-image: url(img/mision-vision.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px 0px;
+}
+
+.card-mv {
+    background-color: #497FB7;
+    text-align: center;
+    border-radius: 5px;
+    height: 400px;
+    padding: 25px;
+}
+
+.card-mv h2{
+    color: #ffffff;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.card-mv p{
+    color:#ffffff;
+    font-weight: 600;
+}
+
+.centrar{
+    justify-content: center;
+}
+
+.tarjeta-directores h4{
+    background-color: #D6EBFF;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+}
+
+.imagen-objetivos{
+    border-radius: 8px;
+    height: 380px;
+    object-fit: cover;
+}
+
+.imagen-objetivos-2{
+    border-radius: 8px;
+    object-fit: cover;
+}
+
+.titulos-somos{
+    font-size: 40px;
+    font-weight: 700;
+    color: #0070E3;
+    margin-bottom: 30px;
+}
+
+.subtitulo-somos{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.listados img{
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}
+
+.listados{
+    display: flex;
+}
+
+.colaborador{
+    max-width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+
+.conector-matricula {
+    background-color: #497FB7;
+}
+
+.conector-matricula h1 {
+    margin-bottom: 50px;
+}
+
+.conector-matricula p {
+    margin-bottom: 80px;
+}
+.info-matricula-conector {
+    padding: 80px 0;
+}
+.info-matricula-conector h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.niños-matricula {
+    background-image: url(img/redes-image.jpg);
+    clip-path: circle(85% at 13% 51%);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.info-matricula-conector {
+    padding: 80px 0;
+}
+@media screen and (max-width: 991px) {
+
+    .niños-matricula {
+        background-image: url(img/redes-image.jpg);
+        clip-path: none;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 250px;
+    }
+
+    .conector-matricula {
+        padding-bottom: 80px;
+    }
+
+    .info-matricula-conector {
+        padding: 50px 0 10px 0;
+    }
+}
+
+
+
+.tarjeta-ejecutivos{
+    border: no;
+    border-radius: 15px;
+    text-align: center;
+    justify-content: center;
+    padding: 50px 20px;
+    box-shadow: -2px 5px 10px 5px rgba(196,196,196,0.44);
+}
+
+.tarjeta-ejecutivos h5{
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.tarjeta-ejecutivos p{
+    font-size: 20px;
+    font-weight: 400;
+    opacity: 85%;
+}
+
+.ejecutivo-fotos{
+    min-height: 200px;
+    max-height: 200px;
+    min-width: 200px;
+    max-width: 200px;
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+
+/* ------------------------------ NOTICIAS ------------------------------ */
+
+/* <<< Sección Noticias principal >>> */
+
+
+
+
+
+
+
+
+/* <<< Sección Noticias descatadas >>> */
+.tarjeta-noticias-destacadas {
+    box-shadow: 0px 0.5px 2px #000000;
+}
+
+.titulo-noticia{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    line-clamp: 1;
+    overflow: hidden;
+}
+
+.cuerpo-noticia {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    overflow: hidden;
+}
+
+.noticia-destacada-info{
+    padding: 20px;
+}
+
+
+
+.imagen-noticia{
+    border-radius: 8px;
+}
+
+
+
+
+
+.titulo-redes{
+    margin-right: 10px;
+    font-weight: 600;
+}
+
+.face-red{
+    margin-right: 4px;
+}
+
+.red-social{
+    width: 40px;
+    height: 40px;
+}
+.red-social-2{
+    width: 46px;
+    height: 46px;
+}
+
+/* ------------------------------ SINGLE PAGE ------------------------------ */
+/* <<< Sección Noticia single >>> */
+.single-titulo{
+    font-size: 38px;
+    font-weight: 700;
+}
+.single-fecha{
+    font-size: 20px;
+    font-weight: 400;
+    opacity: 70%;
+}
+.single-bajada{
+    font-size: 30px;
+    font-weight: 500;
+}
+.single-cuerpo{
+    font-size: 23px;
+    font-weight: 400;
+}
+
+/* <<< Sección Aside Noticia >>> */
+.aside-categoria{
+    font-size: 30px;
+    font-weight: 700;
+    opacity: 80%;
+}
+.aside-titulo{
+    color: rgb(61, 61, 255);
+    font-size: 22px;
+    font-weight: 600;
+}
+.aside-link{
+    color: #000000;
+    text-decoration: none;
+}
+
+/* <<< Sección Paginación & Compartir >>> */
+.text-left a, .text-right a{
+    text-decoration: none;
+    color: #000000;
+}
+.redes-compartir{
+    display: flex;
+    justify-content: end;
+}
+
+/* -------------------------------------------------------------- RESPONSIVE -------------------------------------------------------------------------------- */
+
+@media screen and (max-width: 1466px) {
+
+    /* --------------- INDEX ------------------- */
+
+    .nav-link{
+        font-size: 1rem;
+    }
+    h1{
+        font-size: 2.2rem;
+
+    }
+    h2{
+        font-size: 1.9rem;
+
+    }
+    h3{
+        font-size: 1.5rem;
+    }
+    h4{
+        font-size: 1.25rem;
+
+    }
+    p{
+        font-size: 1rem;
+    }
+
+}
+
+@media screen and (max-width: 1199px) {
+    p {
+        font-size: 0.9rem;
+    }
+    .navbar{
+        padding: 20px 60px;
+        
+    }
+    .nav-link{
+
+        margin-right: 18px;
+    }
+    .testimonio-morado {
+        padding: 60px 30px;        
+
+    }
+    h1{
+        font-size: 1.9rem;
+
+    }
+    h2{
+        font-size: 1.5rem;
+
+    }
+    h3{
+        font-size: 1.2rem;
+    }
+    h4{
+        font-size: 1rem;
+
+    }
+
+    .single-bajada{
+        font-size: 25px;
+    }
+
+}
+
+
+@media screen and (max-width: 991px) {
+    .single-cuerpo{
+        font-size: 20px;
+    }
+
+
+    .nav-link{
+        font-size: 1rem;
+        margin-right: 10px;
+    }
+
+    p{
+        font-size: 0.8rem;
+    }
+    .btn-primary.w-25{
+        width: 40%!important;
+    }
+    .btn-primary.w-50{
+        width: 100%!important;
+    }
+    .btn-primary.py-3{
+        padding-top: 0.7rem!important;
+        padding-bottom: 0.7rem!important;
+    }
+    .single-titulo{
+        font-size: 35px;
+
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .img-auditorio{
+        margin-bottom: 20px;
+    
+    }
+    
+    .tarjeta-noticias-destacadas h3{
+        margin: 20px 0px;
+        font-weight: 600;
+    }
+    .navbar-toggler {
+        background-color: #fafafa!important;
+    }
+    .titulos-azul{
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .nav-link{
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    p{
+        text-align: center;
+    }
+    h1{
+        text-align: center;
+
+    }
+    h2{
+        text-align: center;
+
+    }
+    h3{
+        text-align: center;
+    }
+    h4{
+        text-align: center;
+        font-size: 1.5rem;
+        font-weight: 600;
+
+
+    }
+    .seccion-separador{
+        margin: 50px 0px;
+    }
+    .btn-primary.w-25{
+        width: 100%!important;
+    }
+
+    .margen-noticia{
+        margin: 50px;
+    }
+
+    .btn.btn-primary{
+        margin-bottom: 50px;
+    }
+    .listas{
+        text-align: center;
+
+    }
+    .tarjeta-noticias-destacadas.mb-5{
+        margin-bottom: 1rem!important;
+    }
+    .noticia-destacada-info{
+        padding: 0px;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    .aside-categoria{
+        font-size: 25px;
+
+    }
+    .aside-titulo{
+        font-size: 20px;
+
+    }
+    .single-bajada{
+        font-size: 22px;
+    }
+    .single-cuerpo{
+        font-size: 18px;
+    }
+
+}
+
+@media screen and (max-width: 563px) {
+    p{
+        text-align: center;
+
+    }
+    .margen-noticia{
+        margin: 20px;
+    }
+    .nav-link{
+        font-size: 0.9rem;
+        
+    }
+}
+
+@media screen and (max-width: 450px) {
+
+    .margen-noticia{
+        margin: 10px;
+    }
+    .listas i{
+        display: none;
+    }
+    footer ul span {
+        font-size: 15px;
+    }
+    .single-titulo{
+        font-size: 30px;
+
+    }
+}
+@media screen and (max-width: 380px) {
+
+    .margen-noticia{
+        margin: 0px;
+    }
+
+}
+
+/* +++++++++++++++++++++ Responsive Gerald +++++++++++++++*/
+
+@media screen and (max-width: 992px) {
+
+    .niños-matricula {
+        background-image: url(img/redes-image.jpg);
+        clip-path: none;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 250px;
+    }
+
+    .conector-matricula {
+        padding-bottom: 80px;
+    }
+
+    .info-matricula-conector {
+        padding: 50px 30px 30px 30px;
+    }
+
+    .info-conupia {
+        text-align: center;
+        padding: 0 15px;
+    }
+
+    .card-mv {
+        background-color: #497FB7;
+        text-align: center;
+        border-radius: 0;
+        height: 440px;
+        padding: 25px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .seccion-separador {
+        padding: 0 15px;
+    }
+
+    .titulos-azul {
+        font-size: 35px;
+    }
+}
+
+@media screen and (max-width: 560px) {
+    .fondo-mv {
+        background: none;
+        padding: 20px 0px;
+    }
+
+    .card-mv {
+        height: 400px;
+    }
+
+    .margen-carta {
+        margin-top: 40px;
+    }
+}
+
+@media screen and (max-width: 766px) {
+    .margen-break-sm {
+        margin-top: 40px;
+    }
+}
+
+
+
+/* -------------------------------------------------------------- RESPONSIVE -------------------------------------------------------------------------------- */
+
+@media screen and (max-width: 1466px) {
+
+    /* --------------- INDEX ------------------- */
+
+    .nav-link {
+        font-size: 1rem;
+    }
+
+    h1 {
+        font-size: 2.2rem;
+
+    }
+
+    h2 {
+        font-size: 1.9rem;
+
+    }
+
+    h3 {
+        font-size: 1.5rem;
+    }
+
+    h4 {
+        font-size: 1.25rem;
+
+    }
+
+    p {
+        font-size: 1rem;
+    }
+
+}
+
+@media screen and (max-width: 1199px) {
+    p {
+        font-size: 0.9rem;
+    }
+
+    .navbar {
+        padding: 20px 60px;
+
+    }
+
+    .nav-link {
+        margin-right: 18px;
+    }
+
+    .testimonio-morado {
+        padding: 60px 30px;
+
+    }
+
+    h1 {
+        font-size: 1.9rem;
+
+    }
+
+    h2 {
+        font-size: 1.5rem;
+
+    }
+
+    h3 {
+        font-size: 1.2rem;
+    }
+
+    h4 {
+        font-size: 1rem;
+
+    }
+
+}
+
+
+@media screen and (max-width: 991px) {
+
+    p {
+        text-align: center;
+    }
+
+    h1 {
+        text-align: center;
+
+    }
+
+    h2 {
+        text-align: center;
+
+    }
+
+    h3 {
+        text-align: center;
+    }
+
+    h4 {
+        text-align: center;
+
+    }
+
+    .nav-link {
+        font-size: 0.9rem;
+        margin-right: 10px;
+    }
+
+    p {
+        font-size: 0.8rem;
+    }
+
+}
+
+
+/* +++++++++++++++++++++ Responsive  +++++++++++++++*/
+
+
+@media screen and (max-width: 563px) {
+    p {
+        text-align: center;
+
+    }
+
+}
